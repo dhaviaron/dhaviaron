@@ -30,9 +30,9 @@ I'm a Full-Stack Developer with expertise in TypeScript, Node.js, React, and Rea
 
 ## Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhaviaron&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhaviaron&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to reach out to me if you have any questions, need assistance, or want to collaborate on a project.
 
