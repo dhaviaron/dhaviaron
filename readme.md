@@ -6,21 +6,14 @@ I'm a Full-Stack Developer with expertise in TypeScript, Node.js, React, and Rea
 
 - 🌐 I'm passionate about building web and mobile applications.
 - 💻 I have experience in both front-end and back-end development.
-- 🚀 I'm always learning and exploring new technologies.
-- 🌱 Currently, I'm focused on dev experience.
+- 🌱 Currently, I'm retired of software development.
 
 ## Tech Stack
 
 - **Languages:** TypeScript, JavaScript, Java
-- **Front-End:** React, React Native, NextJS
+- **Front-End:** React, React Native, NextJS, Kotlin
 - **Back-End:** Node.js
 - **Database:** PostgreSQL 
-
-## Projects
-
-- [Project 1]: Brief description.
-- [Project 2]: Brief description.
-- [Project 3]: Brief description.
 
 ## Contact Me
 
