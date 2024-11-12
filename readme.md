@@ -1,19 +1,17 @@
 # Hi there, I'm Dhavi Aron 👋
 
-I'm a Full-Stack Developer with expertise in TypeScript, Node.js, React, and React Native.
+I'm a Full-Stack Developer with expertise in Node.js, React, and React Native.
 
 ## About Me
 
-- 🌐 I'm passionate about building web and mobile applications.
-- 💻 I have experience in both front-end and back-end development.
-- 🌱 Currently, I'm retired of software development.
+- 🌐 I'm passionate about building impactful solutions with web and mobile applications.
+- 🌱 Currently working as a Manager.
+- 🤓 I'm a TypeScript geek.
 
 ## Tech Stack
 
-- **Languages:** TypeScript, JavaScript, Java
-- **Front-End:** React, React Native, NextJS, Kotlin
-- **Back-End:** Node.js
-- **Database:** PostgreSQL 
+I'm language-agnostic; there's no stack I can't work with if I know how to code. 👩‍💻
+I have previous work experience with JavaScript, TypeScript, Node.js, React, React Native, Kotlin, KMM, Android, Postgres, MongoDB, Redis, GraphQL, Docker, Terraform, CI/CD pipelines, serverless solutions, automated testing (Jest, Mocha, Cypress) and much more!
 
 ## Contact Me
 
