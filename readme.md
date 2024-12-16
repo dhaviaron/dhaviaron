@@ -1,12 +1,6 @@
 # Hi there, I'm Dhavi Aron 👋
 
-I'm a Full-Stack Developer with expertise in Node.js, React, and React Native.
-
-## About Me
-
-- 🌐 I'm passionate about building impactful solutions with web and mobile applications.
-- 🌱 Currently working as a Manager.
-- 🤓 I'm a TypeScript geek.
+I'm a Full-Stack Developer with expertise in Node.js, React, and React Native.
 
 ## Tech Stack
 
@@ -17,7 +11,6 @@ I have previous work experience with JavaScript, TypeScript, Node.js, React, Rea
 
 - 📧 Email: dhaviwestphal@gmail.com
 - 🌐 LinkedIn: https://linkedin.com/in/dhaviaron
-- 💼 Portfolio: dhaviaron.com/portfolio
 
 ## Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhaviaron&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
